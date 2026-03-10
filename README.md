@@ -36,7 +36,7 @@ The dashboard also enables deeper analysis of attrition by gender across differe
 
 ___
 
-## Project 2: Unicorn Companies Global Overview Dashboard
+## Project 2: Wildlife Insights Dashboard
 
 This Tableau dashboard presents an interactive **analysis of global wildlife** data, focusing on animal lifespan, speed, threat levels, habitats, and geographical distribution. It provides high-level metrics such as average lifespan, average and maximum speed, total animals, and threat level counts.
 
